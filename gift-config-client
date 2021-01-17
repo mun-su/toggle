@@ -1,0 +1,3 @@
+toggles:
+  maintenance:
+    enabled: true
